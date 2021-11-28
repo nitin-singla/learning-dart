@@ -10,7 +10,11 @@ void main(List<String> args) {
     'Neptune'
   ];
 
+  /*
   planets.forEach((planet) {
     print(planet);
   });
+  */
+
+  planets.forEach((planet) => print(planet));
 }
